@@ -36,7 +36,7 @@ void btlo_helper(const binary_tree_t *tree, void (*func)(int), size_t level)
 }
 
 /**
- * binary_tree_height - It measures the height of a binary tree
+ * binary_tree_height - measures the height of a binary tree
  * @tree: tree to measure the height of
  *
  * Return: height of the tree
